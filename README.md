@@ -95,13 +95,20 @@ Classic Rock-Paper-Scissors game with an interactive web interface.
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications & Extracurricular
 
-| Achievement | Details |
-|------------|---------|
-| *Add your certifications here* | *Details and dates* |
+**Certifications**
+| Certificate | Issued By |
+|------------|-----------|
+| **Generative AI: Introduction and Application** | IBM / Coursera |
+| **Generative AI: Prompt Engineering Basics** | IBM / Coursera |
+| **Prompt Engineering for ChatGPT** | Vanderbilt University / Coursera |
 
-> 💡 *Share your certifications and I'll update this section!*
+**Extracurricular & Volunteering**
+| Activity | Organization |
+|----------|-------------|
+| **Youth Red Cross** | Volunteer, KIIT |
+| **Little Paws Care** | Volunteer, KIIT |
 
 ---
 
