@@ -60,7 +60,6 @@
 AI-powered document summarization tool deployed on Vercel for instant, intelligent text condensation.
 - **Tech Stack:** JavaScript, AI/NLP, Vercel
 - **Features:** Upload documents, get AI-generated summaries, clean modern UI
-- **Live Demo:** [ai-document-summarizer-five.vercel.app](https://ai-document-summarizer-five.vercel.app)
 - **GitHub:** [AI Document Summarizer](https://github.com/Kashish250405/AI-DOCUMENT-SUMMARIZER)
 
 ### 🌍 **AI-Powered Real-Time Speech Translation**
