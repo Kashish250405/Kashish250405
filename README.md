@@ -106,8 +106,8 @@ Classic Rock-Paper-Scissors game with an interactive web interface.
 **Extracurricular & Volunteering**
 | Activity | Organization |
 |----------|-------------|
-| **Youth Red Cross** | Volunteer, KIIT |
-| **Little Paws Care** | Volunteer, KIIT |
+| Volunteer, KIIT | **Youth Red Cross** |
+| Volunteer, KIIT | **Little Paws Care** |
 
 ---
 
